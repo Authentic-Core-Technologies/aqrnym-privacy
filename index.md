@@ -24,7 +24,7 @@ aQRnym is a browser extension that finds QR codes on web pages and PDFs you view
 
 Two things do:
 
-1. **Requests for pictures.** When the page itself is not allowed to share a picture's contents with the extension, aQRnym asks the website that hosts that picture for it again, in the same way your browser asked for it when it showed the page. That website receives an ordinary request for the picture. It receives nothing about QR codes or anything aQRnym found.
+1. **Requests for pictures.** When the page itself is not allowed to share a picture's contents with the extension, aQRnym asks the website that hosts that picture for it again. This request carries no cookies, so it is not tied to any account you have on that website. That website receives an ordinary request for the picture. It receives nothing about QR codes or anything aQRnym found.
 
 2. **Your settings, through Chrome sync.** aQRnym's settings (whether badges are shown automatically, and the list of websites where you turned them off) are saved with Chrome's synced storage. If you are signed in to Chrome with sync turned on, Google stores these settings in your Google account so they follow you to your other computers, under Google's own privacy policy. If sync is off, they stay on your computer.
 
