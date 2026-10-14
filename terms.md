@@ -8,7 +8,9 @@ These terms apply to the aQRnym browser extension ("aQRnym"), published by Authe
 
 aQRnym finds QR codes on web pages and PDFs you view and shows you what each code contains, such as a link, a Wi-Fi network or a piece of text.
 
-**aQRnym does not check whether a link or any other content is safe.** It does not tell you whether a website is genuine, whether a link leads to a scam or phishing page, or whether a file is harmful. It only shows the content so that you can decide for yourself. Before opening a link, check the website address that aQRnym shows, and only open links you trust.
+**aQRnym does not check whether a link or any other content is safe.** It does not tell you whether a website is genuine, whether a link leads to a scam or phishing page, or whether a file is harmful. It only shows the content so that you can decide for yourself, and it never opens a link by itself. Before opening a link, check the website address that aQRnym shows, and only open links you trust.
+
+Websites, files and other content that QR codes lead to are provided by third parties. Authentic Core Technologies does not control or endorse them, and their own terms and privacy policies apply.
 
 ## Your responsibility
 
@@ -16,11 +18,13 @@ You decide what to do with the content aQRnym shows: whether to open a link, cop
 
 ## No warranty
 
-aQRnym is provided free of charge, "as is" and "as available", without any warranty of any kind, express or implied, including warranties of fitness for a particular purpose, accuracy or uninterrupted operation. aQRnym may fail to find a code, may read a code incorrectly, or may not work on some websites or documents.
+aQRnym is provided free of charge, "as is" and "as available", without any warranty of any kind, express or implied, including warranties of merchantability, fitness for a particular purpose, non-infringement, accuracy or uninterrupted operation. aQRnym may fail to find a code, may read a code incorrectly, or may not work on some websites or documents.
 
 ## Limitation of liability
 
 To the fullest extent permitted by applicable law, Authentic Core Technologies is not liable for any loss or damage arising from the use of aQRnym or of content it shows, including loss or damage caused by opening links, visiting websites, or using information found in QR codes.
+
+This does not limit liability for intent or gross negligence, for death or personal injury caused by negligence, or any other liability that cannot be limited under the law that applies to you.
 
 ## Your rights under the law
 
